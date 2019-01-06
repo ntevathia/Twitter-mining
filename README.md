@@ -4,9 +4,9 @@ This repository is focusing on fetching tweets based on the key terms mentioned 
 
 We can achieve so by using Twitter APIs available at Twitter Developers account  https://developer.twitter.com/en/docs/tweets/search/overview
 
-## Limitations of Twitter APIs
+### Limitations of Twitter APIs
 We get access to only past 7 days of data and could not fetch data past a week.<br />
-## Work around
+### Work around
 We can setup a cron job which runs every week to to get all the data.<br />
 
 ## How to run the script
